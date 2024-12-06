@@ -1,0 +1,19 @@
+.main-frame {
+    border: 3px solid orange;
+    /* padding: 10px; */
+    margin: auto;
+    background-color: rgb(250, 246, 250);
+    height: 600px;
+    width: 500px;
+    /* margin-left: 600px; */
+}
+html, body {
+    height: 100%;
+    margin: 0; 
+    align-content: center;
+}
+.footer{
+    color: orange;
+    text-align: center;
+    padding-top: 40px;
+}

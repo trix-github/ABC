@@ -1,0 +1,21 @@
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blue;
+    padding: 10px;
+  }
+  
+  .checkout {
+    background-color: white;
+    color: orange;
+    border-radius: 50px;
+    border: none;
+    padding: 20px 20px;
+    cursor: pointer;
+  } 
+  .checkout-icon{
+    color:red;
+    font-size: large;
+    margin: auto;
+  }

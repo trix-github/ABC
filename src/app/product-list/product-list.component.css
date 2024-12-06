@@ -1,0 +1,14 @@
+.share-button {
+    background-color: blue;
+
+}
+
+ 
+
+.products-frame {
+    border: 2px solid purple; 
+    margin: 2%;
+    padding: 10px;
+
+    background-color: rgb(240, 211, 240);
+}
